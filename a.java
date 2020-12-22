@@ -1,8 +1,5 @@
 adding new branch
-C
-C
-
-//adding this linB
+B
 class a{
 public static void main(String args[]){
 System.out.println("Hello, World!");
